@@ -1,0 +1,35 @@
+/* General styles */
+header {
+  background-color: #81a4cd;
+}
+
+.bs-brand-header {
+  font-size: 2em;
+}
+
+ul.nav {
+  background-color: #f5cce8;
+}
+
+li:hover {
+  background-color: #f1b5eb;
+}
+
+li a {
+  text-align: center;
+}
+
+main h1 {
+  text-align: center;
+}
+
+main h2 {
+  text-align: center;
+  margin: 0.5em 0;
+}
+
+main .menu-section {
+  background-color: lightgray;
+  padding: 0.25em 2em 2em;
+  margin: 4em 1em;
+}
