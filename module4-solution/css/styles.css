@@ -1,0 +1,14 @@
+.example-output pre {
+  background-color: #576066;
+  color: white;
+  margin: 2em;
+  padding-left: 1.5em;
+  font-size: 1.25em;
+}
+
+.inline-code {
+  font-weight: bold;
+  background-color: #576066;
+  color: white;
+  padding: 0.2em 0.4em;
+}
