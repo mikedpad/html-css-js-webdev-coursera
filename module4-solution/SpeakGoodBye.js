@@ -1,4 +1,5 @@
 (function () {
+  // Create empy object
   var byeSpeaker = {};
 
   // DO NOT attach the speakWord variable to the 'byeSpeaker' object.
