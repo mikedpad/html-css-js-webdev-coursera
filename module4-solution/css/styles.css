@@ -2,9 +2,33 @@ body {
   font-family: sans-serif;
 }
 
+main {
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.25em;
+  margin: 0.5em 0;
+}
+
+.description {
+  font-size: 0.9em;
+  text-align: left;
+  margin: 1em 2em 2em;
+}
+
 .inline-code {
   font-weight: bold;
   background-color: #576066;
   color: white;
   padding: 0.2em 0.4em;
+}
+
+/* media query for screens larger than 768px */
+
+@media (min-width: 768px) {
+  .description {
+    margin: 1em auto 2em;
+    max-width: 600px;
+  }
 }
